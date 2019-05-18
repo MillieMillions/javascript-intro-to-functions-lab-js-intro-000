@@ -17,3 +17,13 @@ function logWhisper(string) {
     whisper(string)
   )
 }
+
+//function FunctionName(String is a name of a something)
+// return
+
+function sayHiToGrandma(string) {
+  // if uppercase, return "Yes indeed" or If lowercase, return "I can't hear you!"
+  if (string === string.toUpperCase()) return "YES INDEED!"
+  return "I can't hear you!"
+}
+
