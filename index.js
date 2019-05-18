@@ -11,3 +11,10 @@ function logShout(string) {
     shout(string)
   )
 }
+
+function logWhisper(string) {
+  console.log(
+    whisper(string)
+  )
+}
+
