@@ -11,4 +11,3 @@ function logShout(string) {
     shout('hello')
   )
 }
-  
